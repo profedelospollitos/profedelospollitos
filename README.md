@@ -1,4 +1,4 @@
-- 👋 Hola, I’m @profedelospollitos
+- 👋 Hola, soy @profedelospollitos
 - 👋 Me presento como Andrea Pineda, docente del Programa de Ingeniería Mecatrónica
 - 👀 Me interesa la robótica, la electrónica, la educación, los procesos de manufactura
 - 🌱 Actualmente me encuentro aprendiendo Power Bi
